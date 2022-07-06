@@ -6,16 +6,16 @@ A Drum Kit with interactive buttons to play sounds of various Musical Instrument
 
 _How to use_ :
 
-Following are the sounds of the Musical Instruments the alphabet-buttons represent:
-w - Tom
-a - Tom
-s - Crash Cymbal
-d - Kick Bass Drum
-j - Snare Drum (Side Drum)
-k - Tom
-l - Tom
+Following are the sounds of the Musical Instruments the alphabet-buttons represent: <br />
+w - Tom <br />
+a - Tom <br />
+s - Crash Cymbal <br />
+d - Kick Bass Drum <br />
+j - Snare Drum (Side Drum) <br />
+k - Tom <br />
+l - Tom <br />
 
-Click on the alphabet-buttons to play their respective sounds.
+Click on the alphabet-buttons to play their respective sounds. <br />
 You can also press the corresponding keyboard keys of the alphabet-buttons to generate the above mentioned sounds of the Musical Instruments.
 
 
